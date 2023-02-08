@@ -15,8 +15,8 @@
 
 ### Links
 
-- Solution URL: [GitHub](https://bekaChaduneli.github.io/interactive-comment-section)
-- Live Site URL: [Live URL](https://github.com/bekaChaduneli/interactive-comment-section)
+- Solution URL: [Live URL](https://bekaChaduneli.github.io/interactive-comment-section)
+- Live Site URL: [GitHub](https://github.com/bekaChaduneli/interactive-comment-section)
 
 ## My process
 
